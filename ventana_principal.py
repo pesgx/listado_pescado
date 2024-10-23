@@ -74,7 +74,7 @@ class VentanaPrincipal:
 
     def cargar_imagen(self):
         try:
-            imagen = Image.open("logo_pes.jpg")
+            imagen = Image.open("logo_pes_png.png")
             imagen = imagen.resize((200, 200))  # Ajusta el tamaño según sea necesario
             self.logo = ImageTk.PhotoImage(imagen)
             label_imagen = tk.Label(self.frame_principal, image=self.logo)
