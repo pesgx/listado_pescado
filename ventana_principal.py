@@ -1,3 +1,7 @@
+'''
+Sistema de Gestión de Pescaderías
+CREADO EN MAYOR PARTE CON IA DE TECNOLOGÍA VERSEL V0
+'''
 import tkinter as tk
 from tkinter import ttk, messagebox
 from PIL import Image, ImageTk
