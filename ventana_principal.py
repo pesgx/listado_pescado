@@ -1,6 +1,7 @@
 '''
 Sistema de Gestión de Pescaderías
 CREADO EN MAYOR PARTE CON IA DE TECNOLOGÍA VERSEL V0
+24/10/2024 11:35 añado este comentario para comprobar los commit en GitHub
 '''
 import tkinter as tk
 from tkinter import ttk, messagebox
